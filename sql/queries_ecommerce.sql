@@ -1,4 +1,5 @@
 CREATE DATABASE ecommerce_etl;
+
 USE ecommerce_etl;
 SHOW DATABASES;
 USE ecommerce_etl;
