@@ -1,0 +1,16 @@
+product_id,product_name,category_id
+P101,Wireless Mouse,C01
+P102,Bluetooth Headphones,C02
+P103,USB-C Cable,C01
+P104,Smart Watch,C03
+P105,Laptop Stand,C02
+P106,Mechanical Keyboard,C04
+P107,Phone Charger,C03
+P108,Portable Speaker,C01
+P109,External Hard Drive,C04
+P110,Webcam,C02
+P111,Power Bank,C02
+P112,Office Chair,C03
+P113,LED Desk Lamp,C01
+P114,Tablet Stand,C04
+P115,Notebook Set,C01
