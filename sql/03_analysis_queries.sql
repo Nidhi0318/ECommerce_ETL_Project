@@ -42,6 +42,7 @@ FROM clickstream_clean
 GROUP BY event_type
 ORDER BY total_events DESC;
 
+
 -- F. Product views, cart events, and purchases
 SELECT
     product_id,
