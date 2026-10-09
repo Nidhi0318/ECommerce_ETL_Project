@@ -2,3 +2,4 @@ CREATE DATABASE IF NOT EXISTS ecommerce_etl;
 USE ecommerce_etl;
 SHOW DATABASES;
 SELECT DATABASE();
+
